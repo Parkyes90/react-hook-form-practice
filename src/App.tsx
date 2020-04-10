@@ -1,7 +1,8 @@
 import React from 'react';
+import TodoPage from './pages/TodoPage';
 
 function App(): JSX.Element {
-  return <div>App</div>;
+  return <TodoPage />;
 }
 
 export default App;
